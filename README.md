@@ -19,13 +19,11 @@ The notebook performs the following steps:
 9.  **Inference Helper:** Provides a simple function to predict whether an individual image is real or fake.
 
 ## Getting Started
-
 ### 1. Open in Google Colab
-
 The easiest way to run this project is to open the provided notebook in Google Colab:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/deepfake_detection_colab.ipynb)
-
+*(Replace `YOUR_GITHUB_USERNAME` and `YOUR_REPO_NAME` with your actual GitHub details if you fork this repo).*
 
 ### 2. Setup Kaggle API Key
 
@@ -38,7 +36,6 @@ To download the dataset, you'll need a Kaggle API key:
 5.  In your Colab environment, upload `kaggle.json` to the session storage or place it in `~/.kaggle/kaggle.json`. The notebook includes code to handle this if you upload it to the main directory.
 
 ### 3. Run the Notebook Cells
-
 Execute each cell in the notebook sequentially.
 
 *   The first cell (`0 - Runtime & Setup`) will install all necessary libraries.
