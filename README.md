@@ -26,7 +26,6 @@ The easiest way to run this project is to open the provided notebook in Google C
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/deepfake_detection_colab.ipynb)
 
-*(Replace `YOUR_GITHUB_USERNAME` and `YOUR_REPO_NAME` with your actual GitHub details if you fork this repo).*
 
 ### 2. Setup Kaggle API Key
 
